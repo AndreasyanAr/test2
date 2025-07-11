@@ -1,1 +1,1 @@
-print('asd')
+print('hello my git')
